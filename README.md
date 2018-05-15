@@ -1,2 +1,2 @@
 # provaGitHub
-jiviri jiviri
+desde el remoto
